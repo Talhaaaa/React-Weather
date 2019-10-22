@@ -68,8 +68,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-## Openweatherapi API 
-Above api is used for fetching the weather data for the website.
+## Openweathermap API 
+API from above website is used for fetching the weather data for the react web app.
 
 
 ### Following Commands are used to upload the app to github repository  
