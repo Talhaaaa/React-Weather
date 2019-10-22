@@ -67,25 +67,29 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
+
+## OPENWEATHERMAP API 
+Above api is used for fetching the weather data for the website.
+
+
 ### Following Commands are used to upload the app to github repository  
 
-### git add . 
+ > git add . 
+ 
+ > git commit -m "Create a React app and publish it to GitHub Pages" 
 
-### git commit -m "Create a React app and publish it to GitHub Pages" 
+ >git commit git remote add origin git@github.com:Talhaaaa/React-Weather.git  
+  (basically this command is there when you create a repository  
 
-### git commit git remote add origin git@github.com:Talhaaaa/React-Weather.git  
+ > git push -u origin master 
 
-   (basically this command is there when you create a repository  
+  ### *Sign In page* 
 
- ### git push -u origin master 
+Due to some reason API is not working when deployed on netlify so this screenshot is added with the name capture.png in master
 
- *Sign In page* 
+repository to make it sure to audience that app is working perfectly fine offline. Please do let me if someone with experience knows 
 
-Due to some reason api is not working when deployed on netlify so this screenshot is added with the name SS in master repository
-
-to make it sure to audience that app is working perfectly fine offline. Please do let me if someone with experience knows hows to 
-
-counter this problem. Is it problem with API or netlify or github? 
+hows to counter this problem. Is it problem with API or netlify or github? 
 
  
 
