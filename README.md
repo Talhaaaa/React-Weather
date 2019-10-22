@@ -89,7 +89,9 @@ Due to some reason API is not working when deployed on netlify so this screensho
 
  
 
- 
+Above Web App is hosted at Netlify and can be visited using domain address:
+## https://www.weatherof.tk/
+
 
 ### Another Newbie in for learning and needs mentorship ###
 
