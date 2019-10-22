@@ -68,7 +68,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-## OPENWEATHERMAP API 
+## Openweatherapi API 
 Above api is used for fetching the weather data for the website.
 
 
@@ -85,11 +85,7 @@ Above api is used for fetching the weather data for the website.
 
   ### *Sign In page* 
 
-Due to some reason API is not working when deployed on netlify so this screenshot is added with the name capture.png in master
-
-repository to make it sure to audience that app is working perfectly fine offline. Please do let me if someone with experience knows 
-
-hows to counter this problem. Is it problem with API or netlify or github? 
+Due to some reason API is not working when deployed on netlify so this screenshot is added with the name capture.png in master repository to make it sure to audience that app is working perfectly fine offline. Please do let me if someone with experience knows hows to counter this problem. Is it problem with API or netlify or github? 
 
  
 
