@@ -91,8 +91,9 @@ button {
   color: white;
   margin: 0 2px;
   cursor: pointer;
-  background-color: #d291bc;
+  background-color: #ba97c1;
   border-color: #8b104e;
+  font-size: 2em;
 }
 /*       #8b104e;       */
 .button:hover {

@@ -5,8 +5,8 @@ return(
 <div>
 <h1 className="title-container__title"> Weather  <br/>  Of{'...'}<span>Now</span> </h1>
     <hr />
-		<p className="title-container__subtitle">An Simple React app developed for learning  <br/> 
-    Find me with the source code  @ <a href='https://github.com/Talhaaaa'>GITHUB</a> </p>
+		<p className="title-container__subtitle">A simple react app developed when learning  <br/> 
+    Find me with the source code    <a href="https://github.com/tjtalhaa" className="git-ic mr-3" role="button"><i className="fab fa-x fa-github"  style={{color:'#8b104e'}}></i></a> </p>
     </div>
 );
 }
